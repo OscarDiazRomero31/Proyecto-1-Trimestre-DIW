@@ -1,0 +1,93 @@
+1. Página de Inicio (Desktop & Mobile)
+
+    Encabezado:
+        Logotipo de "Explora la Tierra Media"
+        Menú de navegación (Inicio, Destinos, Tours, Experiencias, Acerca de, Contacto)
+        Iconos de redes sociales
+    Banner Principal:
+        Imagen hero de Rivendel con un texto de bienvenida.
+        Botón "Explorar Ahora".
+    Sección de Destinos Destacados:
+        Tarjetas de destinos (Rivendel, Moria, Mordor, Rohan) con imagen y breve descripción.
+        Botón "Ver Más" para cada destino.
+    Sección de Tours Especiales:
+        Listado de tours temáticos (ej. "Tour de Elfos", "Exploración de Mordor").
+        Botón "Descubre Nuestros Tours".
+    Sección de Testimonios:
+        Reseñas de visitantes previos.
+    Llamado a la Acción (CTA):
+        Suscripción a boletín informativo (nombre y correo electrónico).
+    Pie de Página:
+        Información de contacto, enlaces a políticas de privacidad y términos de uso.
+        Mapa del sitio.
+
+2. Página de Destinos (Desktop & Mobile)
+
+    Encabezado:
+        Mismo que la página de inicio.
+    Listado de Destinos:
+        Tarjetas individuales para cada destino con imagen, breve descripción y botón "Más Información".
+    Filtro de Búsqueda:
+        Opción de filtrar por tipo de destino (montañas, ríos, ciudades, etc.).
+    Mapa Interactivo:
+        Mapa de la Tierra Media donde los usuarios pueden seleccionar destinos.
+    Pie de Página:
+        Mismo que la página de inicio.
+
+3. Página de Tours (Desktop & Mobile)
+
+    Encabezado:
+        Mismo que la página de inicio.
+    Listado de Tours:
+        Tarjetas individuales para cada tour con imagen, descripción y precio.
+        Botón "Reservar Ahora" para cada tour.
+    Sección de Preguntas Frecuentes:
+        Preguntas comunes sobre reservas, precios, etc.
+    Pie de Página:
+        Mismo que la página de inicio.
+
+4. Página de Experiencias (Desktop & Mobile)
+
+    Encabezado:
+        Mismo que la página de inicio.
+    Actividades Destacadas:
+        Sección de experiencias únicas (ej. "Caza de Bestias", "Fiesta de Rivendel").
+    Sección de Eventos:
+        Listado de próximos eventos en la Tierra Media (festivales, ferias, etc.).
+    Pie de Página:
+        Mismo que la página de inicio.
+
+5. Página Acerca de (Desktop & Mobile)
+
+    Encabezado:
+        Mismo que la página de inicio.
+    Historia de la Tierra Media:
+        Breve relato sobre la Tierra Media y sus culturas.
+    Nuestro Equipo:
+        Presentación de guías y colaboradores (elfos, magos, etc.) con imágenes y descripciones.
+    Pie de Página:
+        Mismo que la página de inicio.
+
+6. Página de Contacto (Desktop & Mobile)
+
+    Encabezado:
+        Mismo que la página de inicio.
+    Formulario de Contacto:
+        Campos para nombre, correo electrónico, mensaje.
+        Botón "Enviar".
+    Información de Contacto:
+        Dirección, número de teléfono, correo electrónico.
+    Sección de Redes Sociales:
+        Iconos de redes sociales.
+    Pie de Página:
+        Mismo que la página de inicio.
+
+Consideraciones Adicionales
+
+    Diseño Responsivo: Asegurarse de que el diseño se adapte a diferentes tamaños de pantalla (móviles, tabletas, escritorios).
+    Colores y Tipografía: Usar paletas de colores y tipografía que reflejen la elegancia de los elfos y la rusticidad de la Tierra Media.
+    Elementos Interactivos: Considerar la incorporación de animaciones suaves y transiciones entre secciones.
+
+Conclusión
+
+Este esquema proporciona una estructura sólida para el desarrollo del sitio web que atraiga a los viajeros a explorar la belleza y diversidad de la Tierra Media. Cada sección puede ser ajustada y ampliada según las necesidades específicas y el feedback de Elrandor y su equipo.
